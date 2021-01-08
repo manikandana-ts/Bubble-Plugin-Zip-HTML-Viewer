@@ -1,0 +1,39 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 300,
+        "width": 400
+    },
+    "display": "ZIP Viewer",
+    "fields": {
+        "AAR": {
+            "caption": "ZIP File URL",
+            "editor": "DynamicValue",
+            "name": "zip_file_url",
+            "rank": 0,
+            "value": "file"
+        },
+        "AAS": {
+            "caption": "ZIP Viewer ID",
+            "default_val": "zipviewer_1234",
+            "editor": "DynamicValue",
+            "name": "zip_viewer_id",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAT": {
+            "caption": "Main File Name",
+            "default_val": "index.html",
+            "doc": "include only html file only Ex: index.html OR public/index.html",
+            "editor": "DynamicValue",
+            "name": "main_file_name",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "icon": "ion-document",
+    "property_applications": {
+        "resizable": true
+    }
+}

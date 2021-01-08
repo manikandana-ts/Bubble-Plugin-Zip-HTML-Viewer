@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "web scraping",
+        "2": "technical"
+    },
+    "demo_page": "https://testnew111.bubbleapps.io/version-test/zipviewer",
+    "description": "View html file inside zip file.\n\nPlay the html5 game and enjoy\n\n\nDemo URL: https://testnew111.bubbleapps.io/version-test/zipviewer\n\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1609831817705x835702295735207200/zipviewer.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Zip HTML Viewer",
+    "plugin_instructions": "Simpily install this plugin and add include the zip file path and render your html file.\n\nJust install the plugin and add this element to the bubble page.\n\nAdd your zip file url & main html file path."
+}

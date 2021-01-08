@@ -1,0 +1,56 @@
+{
+    "assets": {
+        "AAY": {
+            "name": "worker-1.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609852970741x844008810286141600/worker.js"
+        },
+        "AAj": {
+            "name": "viewer5.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609858391244x242688625719056360/zipviewer1.html"
+        },
+        "AAm": {
+            "name": "worker.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609906260074x963949862109028100/worker.js"
+        },
+        "ABB": {
+            "name": "zipviewer.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609910591087x357738833696416450/zipviewer.html"
+        },
+        "ABC": {
+            "name": "zipviewer-main.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609912953995x304624477168253600/zipviewer.html"
+        },
+        "ABE": {
+            "name": "clumsy-bird-master.zip",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609914431163x135256808697739260/clumsy-bird-master.zip"
+        },
+        "ABF": {
+            "name": "zipviewer-auto.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609918242945x591991999841768400/zipviewer.html"
+        },
+        "ABI": {
+            "name": "worker-dynamic.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609920300903x960943698778891900/worker.js"
+        },
+        "ABJ": {
+            "name": "zipviewer-dynamic.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1609920344221x786418133930798700/zipviewer-dynamic.html"
+        },
+        "ABU": {
+            "name": "worker-dynamic.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1610088118391x565379335128634700/worker.js"
+        },
+        "ABV": {
+            "name": "zipviewer-dynamic.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1610088156421x605449001814041100/zipviewer-dynamic.html"
+        },
+        "ABW": {
+            "name": "zipviewer-dynamic-main.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1610103688931x689941290568185900/zipviewer-dynamic.html"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "2",
+        "use_jquery": true
+    }
+}
